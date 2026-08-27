@@ -7,3 +7,5 @@ function squareOrSquareRoot(array) {
 
     return newArr;
 }
+
+//
