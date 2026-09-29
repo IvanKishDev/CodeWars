@@ -15,3 +15,5 @@ function twoOldestAges(ages){
     return [newArr[1], newArr[0]]
 }
 //
+
+twoOldestAges([1, 2, 3]);
