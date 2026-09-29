@@ -24,3 +24,4 @@ function evenAndOdd(num) {
 
     return arr;
 }
+//

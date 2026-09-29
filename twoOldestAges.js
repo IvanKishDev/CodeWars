@@ -14,3 +14,4 @@ function twoOldestAges(ages){
    const newArr = ages.toSorted((a, b) => b - a);
     return [newArr[1], newArr[0]]
 }
+//
